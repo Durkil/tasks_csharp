@@ -1,0 +1,15 @@
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\bin\Debug\net7.0\Task1-csharp.exe
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\bin\Debug\net7.0\Task1-csharp.deps.json
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\bin\Debug\net7.0\Task1-csharp.runtimeconfig.json
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\bin\Debug\net7.0\Task1-csharp.dll
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\bin\Debug\net7.0\Task1-csharp.pdb
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.csproj.AssemblyReference.cache
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.AssemblyInfoInputs.cache
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.AssemblyInfo.cs
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.csproj.CoreCompileInputs.cache
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.dll
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\refint\Task1-csharp.dll
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.pdb
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\Task1-csharp.genruntimeconfig.cache
+C:\Users\jekas\source\repos\Task1-csharp\Task1-csharp\obj\Debug\net7.0\ref\Task1-csharp.dll
